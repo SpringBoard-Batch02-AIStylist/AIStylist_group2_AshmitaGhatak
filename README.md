@@ -15,9 +15,13 @@ AI Stylist is a fashion recommendation system that suggests outfits based on an 
 ### Prerequisites
 
 Python 3.x
+
 TensorFlow
+
 Keras
+
 NumPy
+
 Pandas
 
 ## License
